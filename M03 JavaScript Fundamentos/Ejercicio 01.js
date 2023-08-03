@@ -11,7 +11,7 @@ const nuevoString = "esto es una variable tipo string";
 const nuevoNumero = 10;
 
 // Crea una variable de tipo boolean.
-const nuevoBoolean = Boolean (1);
+const nuevoBoolean = true;
 
 // Resuelve el siguiente problema matemático.
 const nuevaResta = 10 - 7 === 3;
@@ -20,7 +20,7 @@ const nuevaResta = 10 - 7 === 3;
 const nuevaMultiplicacion = 10 * 4 === 40;
 
 // Resuelve el siguiente problema matemático.
-const nuevoModulo = 21 % 5 === 1.5;
+const nuevoModulo = 21 % 5 === 1;
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
